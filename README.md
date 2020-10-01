@@ -1,2 +1,2 @@
-# test_repo
-This is a public test repository
+# test_repository
+This is a public test repository.
